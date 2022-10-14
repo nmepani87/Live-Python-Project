@@ -10,12 +10,10 @@
 
 <h3><li>Create</li></h3>
 
-<img width="689" alt="Model_create" src="https://user-images.githubusercontent.com/108291876/191062992-83c4941b-a6ee-4262-9d07-43e226f0c489.png">
-
-<img width="909" alt="Model_model" src="https://user-images.githubusercontent.com/108291876/191065051-2e98940e-c470-4102-b608-9c678fa4d850.png">
-
-<img width="976" alt="Model_forms" src="https://user-images.githubusercontent.com/108291876/191066555-64f741af-e5ff-4af0-bb0a-58b2fd4f5779.png">
-
+  <li><a href="./Media/Model_create.png">Create Code</li>
+  <li><a href="./Media/Model_model.png">Model Code</li>
+  <li><a href="./Media/Model_forms.png">Forms Code</li>
+  
 <p>The above image shows the code that I created that allows a user to be able to input an entry into the database and saves it. The model sections shows the fields, the types they are given and limitations as to what is allow to be entered. Through the forms I was able to use widgets for certain fields, the placeholder being an important one to show the user how to enter the time and date the correct way to allow the form to be valid. I've also shown the use the ModelForm and through the meta class how I renamed a field as needed. 
   
 ![Create](https://user-images.githubusercontent.com/108291876/195746518-3a7f188a-1a71-4a7b-bdd8-62592aa34fff.gif)
