@@ -22,4 +22,10 @@
 
 <img width="692" alt="Model_views2" src="https://user-images.githubusercontent.com/108291876/191067603-e4a886f4-cde6-45ab-8484-f9ad7d2e1352.png">
 
-Through he creation of the two functions shown, the user it able to view a page that contain a list of all the entries added to the SQLite database and, if wanted, by clicking on an individual entry they can view all the details of that specific entry.
+Through the creation of the two functions shown, the user it able to view a page that contain a list of all the entries added to the SQLite database and, if wanted, by clicking on an individual entry, via the use of a primary key, they can view all the details of that specific entry.
+
+<h3><li>Update/Delete</li></h3>
+
+<img width="669" alt="Model_update_delete" src="https://user-images.githubusercontent.com/108291876/195421564-0f6fe67d-1a57-4cb2-9009-b97e6e14b49b.png">
+
+Shown in the above code is how a user, once on a specific entry, can choose to either delete or update that entry. Embedded into it, with the use of JavaScript, is a pop up message that shows to the user the requested action was successful. 
