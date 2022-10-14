@@ -35,11 +35,24 @@
 <h3>Web Scrapping/API</h3>
   
 <li><a href="./Media/API_BS_01.png">API Code</li>
+<li><a href="./Media/API_Page.png">API Page Template Code</li>
 <li><a href="./Media/API_BS_02.png">Web Scrapping Code</li><br>
 
 <p>Through the use of an API I was able to provide a fast way for the user to know the latest currency exchange rates for the GBP. This was done by parsing the API information through JSON and retrieved only certain information as wanted. Each currency in the html page was easily seperated by using block tags to show each individual from the dictionary.
 By using web scrapping, I was easily able to render a page from another by only targetting a specific tag in its html code. Then due to the originally page not wrapping certain information within certain div tags, I took the ones needed by using their index point and putting that into a dictionary. The dictionary is then show in a page another with some other text I put in.</p>
 
-<img width="1387" alt="API" src="https://user-images.githubusercontent.com/108291876/195748584-b7ef257c-cf7e-47a0-8342-ca5cd5c7fee3.png">
-
+<a href="./Media/API.png">API View</a>
+<a href="./Media/BS.gif">Web Scrapping View</a>
   
+<h3>Other Skills Learnt</h3>
+  
+<p>This project has giving me the chance to learn some value skills such as:
+
+<li>Working within a team a complete tasks given efficiently
+<li>Utilizing Azure DevOps for:</li>
+  <ul><li>Organizing active and completed user stories</li>
+  <li>Creating push and pull requests to merge with the master branch</li>
+  <li>Creating working branches for version control</li></ul>
+<li>Fixing bugs through research or help from peers</li>
+<li>Familiarising myself more with the Django Framework</li>
+ 
