@@ -24,9 +24,9 @@
 
 <p>Through the creation of the two functions shown, the user it able to view a page that contain a list of all the entries added to the SQLite database and, if wanted, by clicking on an individual entry, via the use of a primary key, they can view all the details of that specific entry.</p>
 
-<h3><li>Update/Delete</li></h3>
+<h3>Update/Delete</h3>
 
-<li><a href="./Media/Model_update_delete.png">Update/Delete Code</li>
+<li><a href="./Media/Model_update_delete.png">Update/Delete Code</li><br>
 
 <p>Shown in the code is how a user, once on a specific entry, can choose to either delete or update that entry. Embedded into it, with the use of JavaScript, is a pop up message that shows to the user the requested action was successful.</p>
 
@@ -38,8 +38,8 @@
 <li><a href="./Media/API_BS_02.png">Web Scrapping Code</li><br>
 
 <p>Through the use of an API I was able to provide a fast way for the user to know the latest currency exchange rates for the GBP. This was done by parsing the API information through JSON and retrieved only certain information as wanted. Each currency in the html page was easily seperated by using block tags to show each individual from the dictionary.
-By using web scrapping, I was easily able to render a page from another by only targetting a specific tag in its html code. Then due to the originally page not wrapping certain information within certain <div> tags, I took the ones needed by using their index point and putting that into a dictionary. The dictionary is then show in a page another with some other text I put in.</p>
+By using web scrapping, I was easily able to render a page from another by only targetting a specific tag in its html code. Then due to the originally page not wrapping certain information within certain div tags, I took the ones needed by using their index point and putting that into a dictionary. The dictionary is then show in a page another with some other text I put in.</p>
 
 <img width="1387" alt="API" src="https://user-images.githubusercontent.com/108291876/195748584-b7ef257c-cf7e-47a0-8342-ca5cd5c7fee3.png">
-  
+
   
